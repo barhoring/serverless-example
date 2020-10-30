@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 const Response = () => {
   const [response, setResponse] = useState("");
-  const url = "http://localhost:8888/.netlify/functions/test";
+  const url = "/.netlify/functions/test";
   const handleOnClick = (event) => {
     // debugger;
     fetch(url)
