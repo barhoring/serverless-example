@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/barhoring/serverless-example"
+    "url": "git+https://github.com/barhoring/serverless-example.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/barhoring/sixgil/issues"
+    "url": "https://github.com/barhoring/serverless-example/issues"
   },
   "dependencies": {
     "axios": "^0.21.0",
